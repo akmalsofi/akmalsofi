@@ -3,7 +3,7 @@ I'm Akmal Azam Sofi, a Software Engineer with 4+ years of experience in building
 
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/akmalsofi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/akmal-sofi-811653126/" target="_blank">
