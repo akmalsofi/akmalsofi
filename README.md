@@ -101,7 +101,7 @@ I'm Akmal Azam Sofi, a Software Engineer with 4+ years of experience in building
     <img height="160" 
          src="https://camo.githubusercontent.com/46070c26bafc044609989fbfc24aed9f5fe5d30a33ae9cbed88af54c57a6c7f6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e61746873616761723234266c61796f75743d636f6d70616374267468656d653d7265616374" 
          alt="Top Languages: Node.js, Python, Vanilla JavaScript" 
-         data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsagar24&amp;layout=compact&amp;theme=react" 
+         data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalsofi24&amp;layout=compact&amp;theme=react" 
          style="max-width: 100%; height: auto; max-height: 160px;">
   </a>
 </p>
