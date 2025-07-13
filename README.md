@@ -109,6 +109,7 @@ I'm Akmal Azam Sofi, a Software Engineer with 4+ years of experience in building
 <ul dir="auto">
 <li><a href="https://github.com/akmalsofi/netflix-gpt"><strong>Netflix GPT</strong></a></li>
  <li><a href="https://github.com/akmalsofi/New_Casting_Stone_Setting_Intake_Form"><strong>Smartsheet Integration with Hubspot CRM</strong></a></li>
+ <li><a href="https://github.com/akmalsofi/food-order-app"><strong>Food order App</strong></a></li>
 </ul>
 <blockquote>
 <p dir="auto"><strong>Explore more:</strong> <a href="https://github.com/akmalsofi?tab=repositories">My Repositories</a></p>
